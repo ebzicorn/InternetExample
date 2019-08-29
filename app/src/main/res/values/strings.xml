@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternetExample</string>
+    <string name="chooser">choose an app to send your message</string>
+
+</resources>
